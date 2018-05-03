@@ -31,7 +31,7 @@ section.back-style h1{
 .btn-primary:hover{
 	background-color: #FFF;
 	border-color: #ff471a;
-    border-width: 5px;
+    border-width: 1px;
     cursor: pointer;
     color: #ff471a;
 }
