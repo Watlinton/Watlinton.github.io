@@ -1,0 +1,52 @@
+body,
+html{
+   width: 100%;
+   height: 100%;
+}
+
+body{
+	font-family: 'Gugi', cursive;
+}
+section.back-style{
+	background-position: center;
+	background-image: url("header.jpg");
+	background-size: cover;
+	height: 100%;
+}
+
+section.back-style h1{
+	color:#fff;
+	font-size: 3rem; 
+}
+
+#myBtn{
+	margin-top: 450px;
+}
+
+.btn-primary{
+	background-color:#131216;
+	border-color:#15112F;
+}
+
+.btn-primary:hover{
+	background-color: #FFF;
+	border-color: #ff471a;
+    border-width: 5px;
+    cursor: pointer;
+    color: #ff471a;
+}
+
+.btn-padding{
+	padding:1rem 2rem;
+}
+hr{
+  max-width: 85px;
+  border-width: 3px;
+  border-color: #F05F44; 
+ }
+
+ section hr{
+ 	margin-top: 500px;
+ 	margin-bottom: 30px;
+ }
+
